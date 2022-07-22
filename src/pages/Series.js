@@ -26,7 +26,7 @@ const Shows = styled.div`
     display: flex;
     align-items:center;
     justify-content:center;
-    display: inline-block
+    display: inline-block;
 `
 
 const Showbox = styled.div`
@@ -67,7 +67,7 @@ const Button = styled.button`
   border-radius:5px;
   border: none;
   height:5vh;
-  width:3vw
+  width:3vw;
   font-size:1.2vw;
   margin: 10px 10px 10px 10px;
 `

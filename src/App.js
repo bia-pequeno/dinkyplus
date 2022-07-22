@@ -33,7 +33,6 @@ const Navigation = styled.nav`
       font-size: 1.6vw;
       color: #D9D9D9;
       }
-    }
 `
 
 export default class App extends Component{
